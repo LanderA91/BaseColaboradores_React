@@ -1,13 +1,9 @@
-header {
-  text-align: center;
+input {
+	border: none;
 }
 
-body{
-  background-color: #f8f8f6;
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
 }
-
-.wrap {
-  white-space: normal;
-  word-break: break-all;
-}
-
