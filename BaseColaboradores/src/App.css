@@ -1,0 +1,13 @@
+header {
+  text-align: center;
+}
+
+body{
+  background-color: #f8f8f6;
+}
+
+.wrap {
+  white-space: normal;
+  word-break: break-all;
+}
+
